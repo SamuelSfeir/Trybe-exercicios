@@ -1,3 +1,5 @@
+#Resumo da aula
+
 Esta aula fornece uma introdução aos sistemas operacionais e suas funções. 
 
 A funcionalidade da estrutura Hardware > Kernel > Shell > Utilitários é explicada.
