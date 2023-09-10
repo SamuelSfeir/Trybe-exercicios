@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
 # Trybe - exercícios
 
 <span style="font-size:larger;">Seja muito bem vindo ao meu repositório de exercícios! </span>
