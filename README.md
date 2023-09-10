@@ -15,8 +15,8 @@ Neste repositório, você encontrará todas as atividades de aprendizado elabora
 <summary>Ver andamento</summary>
 
 - [x] Dia 1 - Unix e Shell
-- Item 2
-- Item 3
+- [x] Dia 2 - Git: O que é e para que serve
+- [x] Dia 3 - Git e GitHub: Entendendo os comandos
 
 </details>
 
