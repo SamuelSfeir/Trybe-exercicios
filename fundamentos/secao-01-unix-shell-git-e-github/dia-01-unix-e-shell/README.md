@@ -1,7 +1,5 @@
-# Resumo da aula
+# O que foi aprendido na aula?
 
-Esta aula fornece uma introdução aos sistemas operacionais e suas funções. 
-
-A funcionalidade da estrutura Hardware > Kernel > Shell > Utilitários é explicada.
-
-As utilizações de tais sistemas são mostrados e praticados usando comandos do terminal Linux como cat, cp, rm, etc...
+* Introdução aos sistemas operacionais e suas funções
+* A funcionalidade da estrutura Hardware > Kernel > Shell > Utilidades
+* Comandos no terminal (cd; ls; ls -a; mv; mkdir; etc...)
