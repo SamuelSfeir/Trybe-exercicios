@@ -1,4 +1,4 @@
-#Resumo da aula
+# Resumo da aula
 
 Esta aula fornece uma introdução aos sistemas operacionais e suas funções. 
 
