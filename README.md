@@ -7,7 +7,7 @@ Neste repositório, você encontrará todas as atividades de aprendizado elabora
 
 ## Módulos
 
-## [Fundamentos ⏳](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos/secao-01-unix-shell-git-e-github)
+## [Fundamentos ⏳](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos)
 
 
 
