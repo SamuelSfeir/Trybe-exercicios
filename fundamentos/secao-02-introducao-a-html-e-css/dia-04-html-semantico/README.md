@@ -9,4 +9,4 @@
 
 # Por que isso é importante?
 
-Saber aplicar elementos HTML de acordo com o sentido e o propósito que cada um deles carrega, além de reforçar a sua capacidade para modelagem de um problema, resulta em páginas melhor ranqueadas em motores de busca (e.g. Google) e mais acessíveis.
+* Saber aplicar elementos HTML de acordo com o sentido e o propósito que cada um deles carrega, além de reforçar a sua capacidade para modelagem de um problema, resulta em páginas melhor ranqueadas em motores de busca (e.g. Google) e mais acessíveis.
