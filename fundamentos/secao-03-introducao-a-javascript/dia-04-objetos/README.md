@@ -1,0 +1,2 @@
+O que vamos aprender?
+Neste momento, vamos estudar um novo tipo de dado chamado objeto. Serão apresentados alguns métodos que interagem com esses objetos, os quais vão auxiliar na manipulação de dados. Essas funções fazem parte do ES6.
