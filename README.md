@@ -2,10 +2,11 @@
 
 ## Seja muito bem vindo ao meu repositório de exercícios!
 
+Neste repositório, você encontrará todas as atividades de aprendizado que elaborei durante minha jornada na [Trybe](https://www.trybe.com/). Meu nome é [Samuel Sfeir](https://www.linkedin.com/in/samuel-sfeir-434152278/), e estou empolgado em compartilhar meu progresso e conhecimento. Sinta-se à vontade para explorar e aprender junto comigo.
+
+
+
  <img src="Img.webp" width="450" height="350">
-
-
-Neste repositório, você encontrará todas as atividades de aprendizado elaboradas por mim, [Samuel Sfeir](https://www.linkedin.com/in/samuel-sfeir-434152278/), durante minha jornada na [Trybe](https://www.trybe.com/)
 
 ## Módulos
 
