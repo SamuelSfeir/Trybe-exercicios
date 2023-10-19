@@ -6,7 +6,7 @@ Neste repositório, você encontrará todas as atividades de aprendizado que ela
 
 
 
- <img src="Img.webp" width="450" height="350">
+ <img src="Img.png">
 
 ## Módulos
 
