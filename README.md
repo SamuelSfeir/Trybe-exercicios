@@ -75,4 +75,15 @@ Neste repositório, você encontrará todas as atividades de aprendizado que ela
 
 </details>
 
+[Secao 06 - Introducao a JavaScript ES6 e testes unitarios](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos/secao-06-introducao-a-javascript-es6-e-testes-unitarios)
+
+<details>
+<summary>Ver andamento</summary>
+
+- [x] Dia 01 - Fluxo de Exceções
+- [x] Dia 02 - Primeiros Passos em Jest
+- [x] Dia 03 - Matchers e Cobertura de Código
+
+</details>
+
 
