@@ -4,7 +4,9 @@
 
 Neste repositório, você encontrará todas as atividades de aprendizado que elaborei durante minha jornada na [Trybe](https://www.trybe.com/). 
 
-Meu nome é [Samuel Sfeir](https://www.linkedin.com/in/samuel-sfeir-434152278/), e estou empolgado em compartilhar meu progresso e conhecimento. Sinta-se à vontade para explorar e aprender junto comigo.
+Meu nome é [Samuel Sfeir](https://www.linkedin.com/in/samuel-sfeir-434152278/), e estou empolgado em compartilhar meu progresso e conhecimento. 
+
+Sinta-se à vontade para explorar e aprender junto comigo.
 
 
 
@@ -16,7 +18,9 @@ Meu nome é [Samuel Sfeir](https://www.linkedin.com/in/samuel-sfeir-434152278/),
 
 
 
+
 [Seção 1 - Unix, Shell e Git](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos/secao-01-unix-shell-git-e-github/dia-01-unix-e-shell)
+
 
 <details>
 <summary>Ver andamento</summary>
@@ -27,7 +31,9 @@ Meu nome é [Samuel Sfeir](https://www.linkedin.com/in/samuel-sfeir-434152278/),
 
 </details>
 
+
 [Secao 02 - Introdução a Html e Css](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos/secao-02-introducao-a-html-e-css)
+
 
 <details>
 <summary>Ver andamento</summary>
@@ -40,6 +46,8 @@ Meu nome é [Samuel Sfeir](https://www.linkedin.com/in/samuel-sfeir-434152278/),
 </details>
 
 [Secao 03 - Introdução a JavaScript](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos/secao-03-introducao-a-javascript)
+
+
 
 <details>
 <summary>Ver andamento</summary>
@@ -54,6 +62,8 @@ Meu nome é [Samuel Sfeir](https://www.linkedin.com/in/samuel-sfeir-434152278/),
 
 [Secao 04 - Javascript dom, eventos e web storage](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos/secao-04-javascript-dom-eventos-e-web-storage)
 
+
+
 <details>
 <summary>Ver andamento</summary>
 
@@ -65,6 +75,8 @@ Meu nome é [Samuel Sfeir](https://www.linkedin.com/in/samuel-sfeir-434152278/),
 </details>
 
 [Secao 05 - Html e css forms flexbox e responsivo](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos/secao-05-html-e-css-forms-flexbox-e-responsivo)
+
+
 
 <details>
 <summary>Ver andamento</summary>
@@ -78,6 +90,8 @@ Meu nome é [Samuel Sfeir](https://www.linkedin.com/in/samuel-sfeir-434152278/),
 </details>
 
 [Secao 06 - Introducao a JavaScript ES6 e testes unitarios](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos/secao-06-introducao-a-javascript-es6-e-testes-unitarios)
+
+
 
 <details>
 <summary>Ver andamento</summary>
