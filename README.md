@@ -1,4 +1,4 @@
-# Exercícios Trybe
+# Trybe - Exercícios
 
 ## Seja muito bem vindo ao meu repositório de exercícios!
 
