@@ -102,4 +102,18 @@ Sinta-se à vontade para explorar e aprender junto comigo.
 
 </details>
 
+[Secao 07 - Métodos de array](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos/secao-07-metodos-de-array/dia-01-metodos-de-array-map)
+
+
+
+<details>
+<summary>Ver andamento</summary>
+
+- [x] Dia 01 - Métodos de array - Map
+- [] Dia 02 - Métodos de array - Filter e sort
+- [] Dia 03 - Métodos de array - Find e forEach
+- [] Dia 04 - Métodos de array - Reduce
+
+</details>
+
 
