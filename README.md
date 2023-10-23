@@ -1,8 +1,12 @@
-# Exercícios Trybe
+# Trybe - Exercícios
 
 ## Seja muito bem vindo ao meu repositório de exercícios!
 
-Neste repositório, você encontrará todas as atividades de aprendizado que elaborei durante minha jornada na [Trybe](https://www.trybe.com/). Meu nome é [Samuel Sfeir](https://www.linkedin.com/in/samuel-sfeir-434152278/), e estou empolgado em compartilhar meu progresso e conhecimento. Sinta-se à vontade para explorar e aprender junto comigo.
+Neste repositório, você encontrará todas as atividades de aprendizado que elaborei durante minha jornada na [Trybe](https://www.trybe.com/). 
+
+Meu nome é [Samuel Sfeir](https://www.linkedin.com/in/samuel-sfeir-434152278/), e estou empolgado em compartilhar meu progresso e conhecimento. 
+
+Sinta-se à vontade para explorar e aprender junto comigo.
 
 
 
@@ -14,7 +18,9 @@ Neste repositório, você encontrará todas as atividades de aprendizado que ela
 
 
 
+
 [Seção 1 - Unix, Shell e Git](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos/secao-01-unix-shell-git-e-github/dia-01-unix-e-shell)
+
 
 <details>
 <summary>Ver andamento</summary>
@@ -25,7 +31,9 @@ Neste repositório, você encontrará todas as atividades de aprendizado que ela
 
 </details>
 
+
 [Secao 02 - Introdução a Html e Css](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos/secao-02-introducao-a-html-e-css)
+
 
 <details>
 <summary>Ver andamento</summary>
@@ -38,6 +46,8 @@ Neste repositório, você encontrará todas as atividades de aprendizado que ela
 </details>
 
 [Secao 03 - Introdução a JavaScript](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos/secao-03-introducao-a-javascript)
+
+
 
 <details>
 <summary>Ver andamento</summary>
@@ -52,6 +62,8 @@ Neste repositório, você encontrará todas as atividades de aprendizado que ela
 
 [Secao 04 - Javascript dom, eventos e web storage](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos/secao-04-javascript-dom-eventos-e-web-storage)
 
+
+
 <details>
 <summary>Ver andamento</summary>
 
@@ -64,6 +76,8 @@ Neste repositório, você encontrará todas as atividades de aprendizado que ela
 
 [Secao 05 - Html e css forms flexbox e responsivo](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos/secao-05-html-e-css-forms-flexbox-e-responsivo)
 
+
+
 <details>
 <summary>Ver andamento</summary>
 
@@ -72,6 +86,19 @@ Neste repositório, você encontrará todas as atividades de aprendizado que ela
 - [x] Dia 03 - Flexbox parte 1
 - [x] Dia 04 - Flexbox parte 2
 - [x] Dia 05 - Responsividade
+
+</details>
+
+[Secao 06 - Introducao a JavaScript ES6 e testes unitarios](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos/secao-06-introducao-a-javascript-es6-e-testes-unitarios)
+
+
+
+<details>
+<summary>Ver andamento</summary>
+
+- [x] Dia 01 - Fluxo de Exceções
+- [x] Dia 02 - Primeiros Passos em Jest
+- [x] Dia 03 - Matchers e Cobertura de Código
 
 </details>
 
