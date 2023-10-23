@@ -8,6 +8,7 @@ const temperaturesCelsius = [23, 10, 32, 21, 47];
 ```
 
 Exercício 2
+
 Dado um array de números, crie uma função que retorne um novo array com as raízes quadradas dos números. No entanto, se um número for negativo, a função deve substituí-lo por NaN (Não é um Número).
 ```
 const numbers = [4, 9, -1, 16, -5, 25];
@@ -73,9 +74,11 @@ Utilize a base de dados abaixo para fazer os próximos exercícios:
 
 ```
 Exercício 3
+
 Implemente a função formatedBookNames que deve retornar um array de strings no formato: Nome do livro - Gênero - Nome da pessoa autora.
 
 Exercício 4
+
 Implemente a função nameAndAge que deve retornar um array de objetos, cada objeto deve conter:
 
     A chave author, e o valor deve ser o nome da pessoa autora;
