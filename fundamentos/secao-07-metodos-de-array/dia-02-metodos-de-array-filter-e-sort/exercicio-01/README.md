@@ -13,6 +13,7 @@ const people = [
 
 
 Exercício 2
+
 Considere o seguinte array de objetos que representa uma lista de jogadores de basquete:
 
 ``````
