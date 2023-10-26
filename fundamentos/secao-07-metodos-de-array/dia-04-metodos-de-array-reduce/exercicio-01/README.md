@@ -100,3 +100,6 @@ Resultado esperado:
   { name: 'Wilson', course: 'Português' },
 ]
 ``````
+Exercício 03
+
+Escreva uma função chamada multiply que multiplique dois números passados como argumentos. Atribua como default o valor 1, caso não seja passado nenhum valor como segundo parâmetro.

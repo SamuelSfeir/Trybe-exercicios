@@ -93,3 +93,8 @@ const reportBest = (students) => students.map((student) => {
 });
 
 console.log(reportBest(students));
+
+//  --------- Exercício 03 ----------
+const multiply = (number, value = 1) => number * value;
+
+console.log(multiply(8));
