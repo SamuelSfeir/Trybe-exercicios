@@ -110,9 +110,9 @@ Sinta-se à vontade para explorar e aprender junto comigo.
 <summary>Ver andamento</summary>
 
 - [x] Dia 01 - Métodos de array - Map
-- [ ] Dia 02 - Métodos de array - Filter e sort
-- [ ] Dia 03 - Métodos de array - Find e forEach
-- [ ] Dia 04 - Métodos de array - Reduce
+- [x] Dia 02 - Métodos de array - Filter e sort
+- [x] Dia 03 - Métodos de array - Find e forEach
+- [x] Dia 04 - Métodos de array - Reduce
 
 </details>
 
