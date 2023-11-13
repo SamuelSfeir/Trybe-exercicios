@@ -117,3 +117,6 @@ Sinta-se à vontade para explorar e aprender junto comigo.
 </details>
 
 
+## [Front-end ⏳](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos)
+
+
