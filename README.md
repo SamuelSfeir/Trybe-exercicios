@@ -1,4 +1,27 @@
-# Trybe - Exercícios
+ <img src="Img.png">
+
+ Please, select your language:
+
+
+<details>
+  <summary>English :us: </summary>
+  
+ # Trybe - Exercises
+
+## Welcome to my exercise repository!
+
+In this repository, you will find all the learning activities I created during my journey at [Trybe](https://www.trybe.com/).
+
+My name is [Samuel Sfeir](https://www.linkedin.com/in/samuel-sfeir-434152278/), and I'm excited to share my progress and knowledge.
+
+Feel free to explore and learn along with me.
+
+</details>
+
+<details>
+  <summary>Portuguese :brazil: </summary>
+
+  # Trybe - Exercicios
 
 ## Seja muito bem vindo ao meu repositório de exercícios!
 
@@ -8,115 +31,8 @@ Meu nome é [Samuel Sfeir](https://www.linkedin.com/in/samuel-sfeir-434152278/),
 
 Sinta-se à vontade para explorar e aprender junto comigo.
 
-
-
- <img src="Img.png">
-
-## Módulos
-
-## [Fundamentos ⏳](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos)
-
-
-
-
-[Seção 1 - Unix, Shell e Git](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos/secao-01-unix-shell-git-e-github/dia-01-unix-e-shell)
-
-
-<details>
-<summary>Ver andamento</summary>
-
-- [x] Dia 01 - Unix e Shell
-- [x] Dia 02 - Git: O que é e para que serve
-- [x] Dia 03 - Git e GitHub: Entendendo os comandos
-
 </details>
 
 
-[Secao 02 - Introdução a Html e Css](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos/secao-02-introducao-a-html-e-css)
-
-
-<details>
-<summary>Ver andamento</summary>
-
-- [x] Dia 01 - Estruturas de página
-- [x] Dia 02 - Html e css - primeiros passos em css
-- [x] Dia 03 - Html e css - seletores e posicionamento
-- [x] Dia 04 - Html semântico
-
-</details>
-
-[Secao 03 - Introdução a JavaScript](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos/secao-03-introducao-a-javascript)
-
-
-
-<details>
-<summary>Ver andamento</summary>
-
-- [x] Dia 01 - Primeiros passos no JavaScript
-- [x] Dia 02 - Array e Estrutura de Repetição
-- [x] Dia 03 - Funções
-- [x] Dia 04 - Objetos
-- [x] Dia 05 - JSON e Dia de Prática
-
-</details>
-
-[Secao 04 - Javascript dom, eventos e web storage](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos/secao-04-javascript-dom-eventos-e-web-storage)
-
-
-
-<details>
-<summary>Ver andamento</summary>
-
-- [x] Dia 01 - Javascript - Dom e seletores
-- [x] Dia 02 - Javascript - Trabalhando com elementos
-- [x] Dia 03 - Javascript - Eventos
-- [x] Dia 04 - Javascript - web storage
-
-</details>
-
-[Secao 05 - Html e css forms flexbox e responsivo](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos/secao-05-html-e-css-forms-flexbox-e-responsivo)
-
-
-
-<details>
-<summary>Ver andamento</summary>
-
-- [x] Dia 01 - Html e css - forms
-- [x] Dia 02 - Bibliotecas Javascript e frameworks css
-- [x] Dia 03 - Flexbox parte 1
-- [x] Dia 04 - Flexbox parte 2
-- [x] Dia 05 - Responsividade
-
-</details>
-
-[Secao 06 - Introducao a JavaScript ES6 e testes unitarios](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos/secao-06-introducao-a-javascript-es6-e-testes-unitarios)
-
-
-
-<details>
-<summary>Ver andamento</summary>
-
-- [x] Dia 01 - Fluxo de Exceções
-- [x] Dia 02 - Primeiros Passos em Jest
-- [x] Dia 03 - Matchers e Cobertura de Código
-
-</details>
-
-[Secao 07 - Métodos de array](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos/secao-07-metodos-de-array/dia-01-metodos-de-array-map)
-
-
-
-<details>
-<summary>Ver andamento</summary>
-
-- [x] Dia 01 - Métodos de array - Map
-- [x] Dia 02 - Métodos de array - Filter e sort
-- [x] Dia 03 - Métodos de array - Find e forEach
-- [x] Dia 04 - Métodos de array - Reduce
-
-</details>
-
-
-## [Front-end ⏳](https://github.com/SamuelSfeir/Trybe-exercicios/tree/main/fundamentos)
 
 
