@@ -1,0 +1,1 @@
+Na aula de hoje, você implementará um contador utilizando o Redux no React.
